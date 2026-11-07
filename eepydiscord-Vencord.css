@@ -5,5 +5,5 @@
  * @description A pure black Discord theme with calm purple accents for Vencord.
  * @source https://github.com/watersxo/eepydiscord
  */
-@import url("https://raw.githubusercontent.com/watersxo/eepydiscord/main/main.css");
-@import url("https://raw.githubusercontent.com/watersxo/eepydiscord/main/vencord.css");
+@import url("https://raw.githubusercontent.com/watersxo/eepydiscord/main/public/main.css");
+@import url("https://raw.githubusercontent.com/watersxo/eepydiscord/main/public/vencord.css");
