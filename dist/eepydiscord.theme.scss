@@ -7,6 +7,6 @@
  * @source #{$src}
  */
 
-@import url("#{$website}/#{$main_import}");
-@import url("#{$website}/#{$bd_import}");
-@import url("#{$website}/#{$vc_import}");
+@use "main";
+@use "betterdiscord";
+@use "vencord";

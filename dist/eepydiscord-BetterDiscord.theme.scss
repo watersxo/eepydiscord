@@ -7,5 +7,5 @@
  * @source #{$src}
  */
 
-@import url("#{$website}/#{$main_import}");
-@import url("#{$website}/#{$bd_import}");
+@use "main";
+@use "betterdiscord";
