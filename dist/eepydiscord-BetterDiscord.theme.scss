@@ -1,0 +1,11 @@
+@use "start" as *;
+/**
+ * @name #{$themeName} for BetterDiscord
+ * @author #{$author}
+ * @version #{$version}
+ * @description #{$desc} #{$desc_bd}
+ * @source #{$src}
+ */
+
+@import url("#{$website}/#{$main_import}");
+@import url("#{$website}/#{$bd_import}");

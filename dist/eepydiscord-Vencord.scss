@@ -1,0 +1,11 @@
+@use "start" as *;
+/**
+ * @name #{$themeName} for Vencord
+ * @author #{$author}
+ * @version #{$version}
+ * @description #{$desc} #{$desc_vc}
+ * @source #{$src}
+ */
+
+@import url("#{$website}/#{$main_import}");
+@import url("#{$website}/#{$vc_import}");

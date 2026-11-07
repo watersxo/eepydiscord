@@ -1,0 +1,12 @@
+@use "start" as *;
+/**
+ * @name #{$themeName}
+ * @author #{$author}
+ * @version #{$version}
+ * @description #{$desc} #{$desc_generic}
+ * @source #{$src}
+ */
+
+@import url("#{$website}/#{$main_import}");
+@import url("#{$website}/#{$bd_import}");
+@import url("#{$website}/#{$vc_import}");
